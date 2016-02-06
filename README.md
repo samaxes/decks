@@ -1,3 +1,3 @@
-# Samuel Santos' Decks
+# Samuel Santos' decks
 
 Source slides used at public events.
